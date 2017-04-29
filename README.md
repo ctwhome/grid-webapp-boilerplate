@@ -7,8 +7,14 @@ $ lite-server
 ```
 
 ## Features
-- [X] iOS Bounce removed with [iNoBounce](https://github.com/lazd/iNoBounce)
+- [X] iOS Bounce removed with [iNoBounce](https://github.com/lazd/iNoBounce)*
 - [X] Grid Layout
+ 
+ * It is important to set a height and overflow to those scrollable containers. The script blocks any div without this properties in your CSS: 
+ ```css
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+```
  
  ## Todo
  - [ ] Progressive Web App boilerplate (Minimum service Worker and app Icons)
