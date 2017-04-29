@@ -1,4 +1,4 @@
-# CSS3 Grid Layout optimized for Progressive Web Apps (including iOS)
+# CSS3 Grid Layout for Progressive Web Apps (including iOS)
 Responsive mobile-tablet-desktop Web APP with CSS3 Grid Layout Boilerplate.
 
 ```
