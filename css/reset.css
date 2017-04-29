@@ -52,7 +52,7 @@ body{
     bottom: 0;
 }
 
-.views{
+.scrollable{
     width:100vw;
     height:100vh;
     overflow-y:scroll;
