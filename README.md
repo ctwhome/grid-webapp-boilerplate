@@ -12,4 +12,4 @@ $ lite-server
  
  ## Todo
  - [ ] Progressive Web App boilerplate (Minimum service Worker and app Icons)
- - [ ] CSS grid Documentation basics [reference]() 
+ - [ ] CSS grid Documentation basics [reference](https://tympanus.net/codrops/css_reference/grid/) 
