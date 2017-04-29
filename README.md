@@ -1,4 +1,4 @@
-# Grid Layout optimized for responsive WebApps with CSS3 Grid layout
+# CSS3 Grid Layout optimized for responsive WebApps (including iOS)
 Responsive mobile-tablet-desktop Web APP with CSS3 Grid Layout Boilerplate.
 
 ```
