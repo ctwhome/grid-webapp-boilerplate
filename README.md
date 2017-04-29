@@ -5,8 +5,8 @@ Responsive mobile-tablet-desktop Web APP with CSS3 Grid Layout Boilerplate.
 $ yarn global lite-server
 $ lite-server
 ```
-![mobile][img/mogbile.png]
-![desktop][img/desktop.png]
+![mobile][https://raw.githubusercontent.com/ctwhome/grid-webapp-boilerplate/master/img/mobile.png]
+![desktop][https://raw.githubusercontent.com/ctwhome/grid-webapp-boilerplate/master/img/desktop.png]
 ## Features
 - [X] iOS Bounce removed with [iNoBounce](https://github.com/lazd/iNoBounce)
 - [X] Grid Layout
